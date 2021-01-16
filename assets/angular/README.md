@@ -2,6 +2,7 @@
 ---
 * [7 Keys to Angular 2](#7-keys-to-angular-2)
 * [Angular Building blocks](#angular-building-blocks)
+* [Angular Directive Types](#angular-directive-types)
 * [Angular Component lifecycle hooks](#angular-component-lifecycle-hooks)
 
 ---
@@ -15,6 +16,10 @@ https://johnpapa.net/17-minute-angular-2-app/
 ### Angular building blocks
 
 ![](./building-blocks.png)
+
+---
+### Angular Directive Types
+![](./directives.png)
 
 
 ---
